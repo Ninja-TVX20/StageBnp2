@@ -1,0 +1,5 @@
+{
+    "python.analysis.inlayHints.callArgumentNames": "all",
+    "python.analysis.autoFormatStrings": true,
+    "python.analysis.diagnosticMode": "workspace"
+}
